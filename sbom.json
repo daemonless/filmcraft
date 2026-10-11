@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-10T06:58:53Z",
+  "generated": "2026-10-11T07:29:41Z",
   "image": "filmcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.5.0",
+      "app_version": "0.6.0",
       "arch": "amd64",
-      "generated": "2026-10-10T06:58:22Z",
+      "generated": "2026-10-11T07:29:01Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -301,7 +301,7 @@
               "BSD2CLAUSE"
             ],
             "name": "pkg",
-            "version": "2.7.5"
+            "version": "2.8.4"
           },
           {
             "licenses": [
