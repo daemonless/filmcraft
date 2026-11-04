@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-03T22:34:51Z",
+  "generated": "2026-11-04T16:42:57Z",
   "image": "filmcraft",
   "tags": {
     "latest-amd64": {
       "app_version": "0.17.0",
       "arch": "amd64",
-      "generated": "2026-11-03T22:34:19Z",
+      "generated": "2026-11-04T16:42:22Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -266,7 +266,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.6_7,3"
+            "version": "1.30.6_10,3"
           },
           {
             "licenses": [
