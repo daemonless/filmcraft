@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-11T21:34:06Z",
+  "generated": "2026-11-12T10:28:47Z",
   "image": "filmcraft",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.20.0",
+      "app_version": "0.20.1",
       "arch": "amd64",
-      "generated": "2026-11-11T21:33:29Z",
+      "generated": "2026-11-12T10:28:10Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
