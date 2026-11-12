@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-11T22:45:45Z",
+  "generated": "2026-11-12T08:53:55Z",
   "image": "filmcraft",
   "tags": {
     "latest-aarch64": {
-      "app_version": "0.20.0",
+      "app_version": "0.20.1",
       "arch": "aarch64",
-      "generated": "2026-11-11T22:45:07Z",
+      "generated": "2026-11-12T08:53:21Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
